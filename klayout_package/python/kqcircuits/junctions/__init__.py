@@ -31,6 +31,7 @@ junction_type_choices = [
     "No Squid",
     "Manhattan",
     "Manhattan Single Junction",
+    'Manhattan Single Junction Centered',
     #'QCD1',
     "Sim",
 ]
